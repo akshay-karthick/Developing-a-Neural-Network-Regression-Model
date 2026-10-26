@@ -35,7 +35,6 @@ Track the loss function values across epochs to visualize convergence.
 Plot the original dataset along with the learned linear model.
 
 ### STEP 7: Make Predictions
-
 Use the trained model to predict  for a new input value .
 
 ## PROGRAM
